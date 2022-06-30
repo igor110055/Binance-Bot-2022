@@ -1,2 +1,11 @@
-# Binance-Bot-2022
-Binance al-sat botu
+# binance-bot
+
+-Kurulum-
+
+python3 -m venv env
+
+source env/bin/activate
+
+pip install -r requirements.txt
+
+python -m binance_trade_bot
